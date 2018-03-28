@@ -1,0 +1,71 @@
+
+
+.navbar-container {
+  width: 100%;
+  background-color: white;
+  height:30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.navbar-contents {
+  max-width: 90%;
+  margin: auto;
+  height: 26px;
+  font-size: 18px;
+  margin-top: 2px;
+}
+
+.navbar-contents a {
+  color: #999;
+  text-decoration: none;
+}
+
+.contact-text:hover {
+  color: black !important;
+}
+
+.socials-section {
+  float: left;
+  color: #999;
+}
+
+.contact-section {
+  float: right;
+  color: #999;
+}
+
+.fas {
+  font-size: 15px;
+  margin-right: 5px;
+}
+.fab{
+    font-size: 15px;
+    margin-right: 5px;
+  }
+.social-icons-group {
+  margin-left: 6px;
+  display: inline;
+}
+
+.facebook-icon:hover {
+  color: #337ab7 !important
+}
+
+.twitter-icon:hover{
+    color:#337ab7 !important
+}
+
+.pinterest-icon:hover{
+    color:red !important
+}
+
+.youtube-icon:hover{
+    color:red!important
+}
+
+.social-bar-text{
+    font-size: 14px;
+}
